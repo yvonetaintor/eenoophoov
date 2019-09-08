@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aixiapozai.xn--ffi-milliarde-hmb.at/sitemap.xml
